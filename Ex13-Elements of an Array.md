@@ -1,5 +1,4 @@
 # Ex13 Fill the First 10 Elements of an Array with a Constant using Arrays.fill()
-## DATE: 30-10-2025
 ## AIM:
 To write a Java program that fills the first 10 elements of an array with a constant value using the Arrays.fill() method.
 ## Algorithm
@@ -13,8 +12,8 @@ To write a Java program that fills the first 10 elements of an array with a cons
 ```
 /*
 Program to FILL the first 10 elements of an array with a constant value using the Arrays.fill() method.
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+RegisterNumber: 212223043006
 */
 import java.util.Arrays;
 
