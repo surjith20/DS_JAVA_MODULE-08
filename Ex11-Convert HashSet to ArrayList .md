@@ -1,5 +1,4 @@
 # Ex11 Convert HashSet to ArrayList in Java
-## DATE: 30-10-2025
 ## AIM:
 To convert a collection of distinct integers stored in a HashSet into an ArrayList and display its contents.
 ## Algorithm
@@ -14,8 +13,8 @@ To convert a collection of distinct integers stored in a HashSet into an ArrayLi
 ```
 /*
 Program to To convert a collection of distinct integers stored in a HashSet into an ArrayList and display its contents.
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+RegisterNumber: 212223043006
 */
 import java.util.*;
 
